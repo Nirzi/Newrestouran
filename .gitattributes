@@ -1,1 +1,2 @@
 myproject filter=lfs diff=lfs merge=lfs -text
+myproject.rar filter=lfs diff=lfs merge=lfs -text
